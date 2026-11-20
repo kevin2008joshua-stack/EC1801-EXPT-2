@@ -25,13 +25,8 @@ logic_gates_tb.v	All input combinations and VCD generation
 
 # **Test Bench Program**
 <img width="1917" height="873" alt="exp2 (3)" src="https://github.com/user-attachments/assets/263fb14f-2507-4f86-a6a8-19617b139d68" />
-
-
-
 # Truth Table
- 
 <img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/8a343bdb-ffb4-4aac-8b88-cf59eca374a8" />
-
 # Simulation Procedure
 STEP 1 – Open Terminal
 Open a terminal in the experiment folder.
@@ -80,8 +75,4 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
-
 <img width="1917" height="475" alt="exp2 (1)" src="https://github.com/user-attachments/assets/8623755c-3c22-49c3-a386-9c54d28bc1f6" />
-
- 
-
